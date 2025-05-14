@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Mustache_Black_005
+  m_EditorClassIdentifier: 
+  Name: 
+  Obj3DMesh: {fileID: 8239378173128267537, guid: 6e610b4e3fba6e148a5e147531bcdcd0, type: 3}
+  UIImage: {fileID: 391287159, guid: 8fea14f38acb4ca4c85f1e977bfa740e, type: 3}
+  Price: 
+  CanChangeColor: 1
+  CustomHeight: 0

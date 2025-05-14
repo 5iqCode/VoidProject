@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Hair_014
+  m_EditorClassIdentifier: 
+  Name: 
+  Obj3DMesh: {fileID: 6044869691379592158, guid: 7bad302ff4ff83a4085974bab83cbb94, type: 3}
+  UIImage: {fileID: 1345963696, guid: 964eee724531fdc45b427292049c4685, type: 3}
+  Price: 
+  CanChangeColor: 1
+  CustomHeight: 0
+  _customPosition: {x: 0, y: 0, z: 0}
+  _customRotation: {x: 0, y: 0, z: 0}
+  _customScale: {x: 1.28, y: 1.0648, z: 0.97}

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Backpack_017
+  m_EditorClassIdentifier: 
+  Name: 
+  Obj3DMesh: {fileID: -4324796915410347424, guid: b1578aeeb3e58f246845ff077a4a30d9, type: 3}
+  UIImage: {fileID: 1111249450, guid: fbe048ec123b4cb4b90bd602942d63db, type: 3}
+  Price: 
+  CanChangeColor: 1
+  CustomHeight: 0
+  _customPosition: {x: 0, y: -0.01153, z: 0.00028}
+  _customRotation: {x: 0, y: 0, z: 0}
+  _customScale: {x: 1.240001, y: 1.24, z: 1.05}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Glove4
+  m_EditorClassIdentifier: 
+  Obj3DMesh: {fileID: 6223182056434340418, guid: 117af1c0553abad4897822ab5e75e998, type: 3}
+  UIImage: {fileID: 1566796168, guid: 70d55122fc88e9d4d9cf9deb4e9c8e18, type: 3}
+  Price: 0
+  NameValut: Coins
+  CanChangeColor: 1
+  CustomHeight: 0
+  _customPosition: {x: 0, y: 0, z: 0}
+  _customRotation: {x: 0, y: 0, z: 0}
+  _customScale: {x: 0, y: 0, z: 0}
+  isBuyed: 0

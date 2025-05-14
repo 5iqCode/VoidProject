@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f60152ebbc04aa54783da838439a0810, type: 3}
+  m_Name: GiftEasyPlus
+  m_EditorClassIdentifier: 
+  _chanceTear: 6400000064000000320000001900000002000000
+  _countGift: 00000000dc050000b80b00001900000032000000
+  _nameValutAlternativa:
+  - Coins
+  - Coins
+  - Coins
+  - Diamonds
+  - Diamonds
+  _chanceLoot: 50

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Eyebrow_009
+  m_EditorClassIdentifier: 
+  Name: 
+  Obj3DMesh: {fileID: 9163116049705982686, guid: 5dc41f860bc0f9741a49b65b5d491b4e, type: 3}
+  UIImage: {fileID: -208127429, guid: 45863e0c16baf39479939e54a9ad9a5f, type: 3}
+  Price: 
+  CanChangeColor: 1
+  CustomHeight: 0

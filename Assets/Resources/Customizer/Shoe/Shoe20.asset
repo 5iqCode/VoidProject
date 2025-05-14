@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cb3a3ef861868e4089bb30746c8a917, type: 3}
+  m_Name: Shoe20
+  m_EditorClassIdentifier: 
+  Obj3DMesh: {fileID: 1485159272129722322, guid: 117af1c0553abad4897822ab5e75e998, type: 3}
+  UIImage: {fileID: -1045749757, guid: 847367172fc8d764ba0a07e28ba21243, type: 3}
+  Price: 0
+  NameValut: Coins
+  CanChangeColor: 1
+  CustomHeight: -0.03
+  _customPosition: {x: 0, y: 0, z: 0}
+  _customRotation: {x: 0, y: 0, z: 0}
+  _customScale: {x: 0, y: 0, z: 0}
+  isBuyed: 0
